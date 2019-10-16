@@ -8,6 +8,7 @@ namespace huuhaa
         {
             // Echo haist itte
             Console.WriteLine("Haist itte!");
+            Console.Writeline("Älä mulle ala");
         }
     }
 }
