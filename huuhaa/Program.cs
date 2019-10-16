@@ -6,6 +6,7 @@ namespace huuhaa
     {
         static void Main(string[] args)
         {
+            // Echo haist itte
             Console.WriteLine("Haist itte!");
         }
     }
